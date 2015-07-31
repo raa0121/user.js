@@ -21,7 +21,7 @@
 	                  "PAGEURGENT_sp", "followContainer", "jasrac",
 	                  "community_pc_top", "web_pc_top", "news_pc_sidepanel",
 	                  "news_pc_skyscraper", "web_pc_360", "leftPanel",
-	                  "watch_zapping_box");
+	                  "watch_zapping_box", "playlist", "videoExplorerExpand");
 
 	delClass = new Array("adsense-728", "mb10", "c_banners");
 	
